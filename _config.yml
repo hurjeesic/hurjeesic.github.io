@@ -1,4 +1,5 @@
 # Site settings
+<<<<<<< HEAD
 title: Jiman's instruction
 description: "Jiman's instruction, build with Jekyll."
 url: "http://hurjeesic.github.io/"
@@ -6,6 +7,15 @@ author:
   name: "Hur Jee Sic"
   email: "hurjeesic@naver.com"
   url: "http://hurjeesic.github.io/"
+=======
+title: Emerald | A simple Jekyll blog
+description: "A minimal blog template, build with Jekyll."
+url: "http://www.jacoporabolini.com/emerald"
+author:
+  name: "Jacopo Rabolini"
+  email: "hello@jacoporabolini.com"
+  url: "http://www.jacoporabolini.com"
+>>>>>>> parent of db1a4d5... 설정 변경
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
