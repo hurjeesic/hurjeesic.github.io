@@ -1,11 +1,11 @@
 # Site settings
 title: Jiman's instruction
 description: "Jiman's instruction, build with Jekyll."
-url: "http://hurjeesic.github.io"
+url: "http://hurjeesic.github.io/emerald/"
 author:
   name: "Hur Jee Sic"
   email: "hurjeesic@naver.com"
-  url: "http://hurjeesic.github.io"
+  url: "http://hurjeesic.github.io/emerald/"
 
 # Build settings
 baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
