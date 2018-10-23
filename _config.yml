@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 title: Jiman's instruction
 description: "Jiman's instruction, build with Jekyll."
+<<<<<<< HEAD:_config.yml
 url: "http://hurjeesic.github.io/"
 author:
   name: "Hur Jee Sic"
@@ -16,6 +17,13 @@ author:
   email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 >>>>>>> parent of db1a4d5... 설정 변경
+=======
+url: "http://hurjeesic.github.io"
+author:
+  name: "Hur Jee Sic"
+  email: "hurjeesic@naver.com"
+  url: "http://hurjeesic.github.io"
+>>>>>>> parent of 4c2b8ea... 구조 변경:_config.yml
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
