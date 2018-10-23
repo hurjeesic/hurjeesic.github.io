@@ -1,32 +1,14 @@
-# Site settings
-<<<<<<< HEAD
+﻿# Site settings
 title: Jiman's instruction
 description: "Jiman's instruction, build with Jekyll."
-<<<<<<< HEAD:_config.yml
-url: "http://hurjeesic.github.io/"
+url: "https://hurjeesic.github.io/emerald"
 author:
   name: "Hur Jee Sic"
   email: "hurjeesic@naver.com"
-  url: "http://hurjeesic.github.io/"
-=======
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
-author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
->>>>>>> parent of db1a4d5... 설정 변경
-=======
-url: "http://hurjeesic.github.io"
-author:
-  name: "Hur Jee Sic"
-  email: "hurjeesic@naver.com"
-  url: "http://hurjeesic.github.io"
->>>>>>> parent of 4c2b8ea... 구조 변경:_config.yml
+  url: "https://hurjeesic.github.io"
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: "" # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
