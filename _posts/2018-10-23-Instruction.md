@@ -1,5 +1,6 @@
 ---
 title: 자기소개
+excerpt: Jiman의 자기소개
 ---
 
 ## 인적사항
@@ -61,6 +62,12 @@ title: 자기소개
 
 
 
+### 협업 도구
+
+* GIT(Bash, Github Desktop)
+
+
+
 ## 접해본 기술
 
 ### 프로그래밍 언어
@@ -87,7 +94,7 @@ title: 자기소개
 
 ### 협업 도구
 
-* Atom Edit(git)
+* Atom Edit(GIT)
 * Goorm(Cloud Coding Service)
 
 
